@@ -24,4 +24,6 @@ The average rating for any subject can be calculated by iterating through the st
 $$\text{Average} = \frac{\sum_{i=1}^{n} \text{rating}_i}{n}$$
 
 Where $n$ is the total number of reviews for that specific subject.
+
+https://stellar.expert/explorer/testnet/contract/CA74OFM47TO5R4L4KE26FQAQGP4PNGBBLX7FMWQXL6QXBNLMA7PYEDBT
 <img width="1916" height="1019" alt="image" src="https://github.com/user-attachments/assets/db17027e-25c8-44b7-ad52-9624657d89b1" />
